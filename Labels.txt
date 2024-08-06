@@ -14,7 +14,7 @@ parking meter
 bench
 bird
 cat
-umbrella
+dog
 horse
 sheep
 cow
@@ -25,26 +25,26 @@ giraffe
 backpack
 umbrella
 handbag
-Book
+tie
 suitcase
 frisbee
 skis
-snowboard
+Pen
 sports ball
 kite
 baseball bat
 baseball glove
 skateboard
 surfboard
-Pen
+tennis racket
 bottle
 wine glass
 cup
 fork
-paper
+bottle
 spoon
-bowl
-banana
+watch
+Book
 apple
 sandwich
 orange
@@ -57,9 +57,9 @@ cake
 chair
 sofa
 pottedplant
-ring
+watch
 diningtable
-toilet
+pc
 tvmonitor
 laptop
 mouse
@@ -70,11 +70,11 @@ microwave
 oven
 toaster
 sink
-idcard
+pc
 book
 clock
 vase
 Mobile
 teddy bear
 hair drier
-toothbrush
+pen
